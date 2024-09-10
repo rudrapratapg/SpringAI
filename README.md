@@ -1,6 +1,3 @@
-Here's how you can format the description for your project's `README.md` file on GitHub:
-
-```markdown
 # AI-Powered Dynamic Response System Using Spring AI
 
 ## Description
