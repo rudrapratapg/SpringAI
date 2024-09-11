@@ -1,0 +1,1 @@
+What is the capital of {stateOrCountry}? The response should be a JSON object with a single property named "answer".

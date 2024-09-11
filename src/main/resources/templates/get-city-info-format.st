@@ -1,0 +1,1 @@
+Give a detailed info of the city {cityName} telling the following details: {format}
