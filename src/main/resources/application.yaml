@@ -1,0 +1,11 @@
+spring:
+  application:
+    name:SpringAI
+  ai:
+    openai:
+      api-key:${OPENAI_API_KEY}
+sfg:
+  aiapp:
+    vectorStorePath:D:/Projects/Spring/vectorStore/vectorStore.json
+  documentsToLoad:
+    - classpath:/movies500.csv
