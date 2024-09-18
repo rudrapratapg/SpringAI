@@ -26,7 +26,7 @@ To get started with this project:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd SpringAI
    ```
 3. Build and run the project:
    ```bash
